@@ -1,0 +1,4 @@
+1. git clone
+2. git remote add
+3. git push
+4. git pull
